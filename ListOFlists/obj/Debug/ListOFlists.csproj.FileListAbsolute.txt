@@ -1,0 +1,6 @@
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\bin\Debug\ListOFlists.exe.config
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\bin\Debug\ListOFlists.exe
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\bin\Debug\ListOFlists.pdb
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\obj\Debug\ListOFlists.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\obj\Debug\ListOFlists.exe
+C:\Users\Liza\source\repos\ListOFlists\ListOFlists\obj\Debug\ListOFlists.pdb

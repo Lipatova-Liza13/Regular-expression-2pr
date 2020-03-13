@@ -1,0 +1,6 @@
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\bin\Debug\CheckTELnumb.exe.config
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\bin\Debug\CheckTELnumb.exe
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\bin\Debug\CheckTELnumb.pdb
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\obj\Debug\CheckTELnumb.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\obj\Debug\CheckTELnumb.exe
+C:\Users\Liza\source\repos\CheckTELnumb\CheckTELnumb\obj\Debug\CheckTELnumb.pdb
